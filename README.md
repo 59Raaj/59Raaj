@@ -10,8 +10,9 @@
 📜 I believe infrastructure should be declarative, secure, scalable & elegant  
 🔭 Always exploring the edge of DevOps & SRE philosophy  
 💬 Let's talk about code, containers, or the meaning of uptime!
-
-## ⚙️ DevOps Stack
+ 
+ ### ⚙️ DevOps Stack
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p><p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/> <p align="left">
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -35,6 +36,23 @@
 ### 📊 Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 🔥 Featured Projects
+
+### 1️⃣ Automating Kubernetes Backups with Velero on AWS EKS 🚀
+- Set up **Velero** to automate backups and restore **AWS EKS clusters**.
+- Configured **IAM roles, S3 storage, and scheduled backups** for disaster recovery.
+- Ensured **Kubernetes workload migration** between clusters seamlessly.
+
+### 2️⃣ Fully Automated CI/CD Pipeline with AWS EKS & ArgoCD ⚡
+- Built a **zero-downtime CI/CD pipeline** using **Jenkins, ArgoCD, and AWS EKS**.
+- Integrated **Spring Boot, SonarQube, Trivy security scans, and ArgoCD GitOps deployment**.
+- Deployed applications with **automated rollback and traffic routing** using Nginx Ingress.
+
+### 3️⃣ Spring Boot Deployment Automation with Jenkins & Docker 🛠
+- Automated **Spring Boot application deployment** using **Jenkins and Docker**.
+- Implemented **Maven builds, SonarQube code analysis, Trivy scans, and containerization**.
+- Managed **Docker images on AWS ECR** and set up **email notifications** for build updates.
 
 ## 📫 Let’s Connect
 
