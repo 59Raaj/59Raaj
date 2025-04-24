@@ -9,9 +9,6 @@
 <br>
 <br>
 <br> 
-
----
-
 ## 🧠 About Me
 
 🧭 I’m a **DevOps Engineer & Technological Philosopher**  
@@ -19,8 +16,6 @@
 📜 I believe infrastructure should be declarative, secure, scalable & elegant  
 🔭 Always exploring the edge of DevOps & SRE philosophy  
 💬 Let's talk about code, containers, or the meaning of uptime!
-
----
 
 ## ⚙️ DevOps Stack
 
@@ -47,8 +42,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
-
 ## 📫 Let’s Connect
 
 <p align="center">
@@ -62,10 +55,3 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-### Quote for Day 
-
-
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
